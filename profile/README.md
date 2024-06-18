@@ -34,15 +34,3 @@ Abaixo, nas Tabelas de 1 a 3 a seguir, estão os Grupos e seus integrantes.
 <div style="text-align: center">
 <p> Tabela 2: Funções dos membros do grupo 02. </p>
 </div>
-
-
-### Grupo 03
-
-| Membros                     | Função        |
-| --------------------------- | ------------- |
-| Sávio Cunha de Carvalho     | Desenvolvedor |
-| Thiago França Vale Oliveira | Desenvolvedor |
-
-<div style="text-align: center">
-<p> Tabela 3: Funções dos membros do grupo 03. </p>
-</div>
