@@ -6,6 +6,8 @@ O DataMed é uma aplicação web cuja função é ajudar pacientes a compreender
 
 **Documentação disponível em:** <a href="https://eps-datamed.github.io/wiki"><u>DataMed - Wiki</u></a>
 
+**A aplicação pode ser acessada em:** <a href="https://datamed-bwaw.onrender.com/"><u>DataMed - Aplicação web</u></a>
+
 ## Integrantes
 
 Abaixo, nas Tabelas 1 e 2 a seguir, estão os Grupos e seus integrantes.
